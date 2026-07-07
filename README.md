@@ -76,9 +76,13 @@ sudo ufw allow 27017/tcp
 sudo ufw reload
 
 🗑️ Desinstalação
+
 sudo systemctl stop mongod
+
 sudo apt remove --purge -y mongodb-org*
+
 sudo rm -rf /var/log/mongodb
+
 sudo rm -rf /var/lib/mongodb
 
 🛡️ Segurança
