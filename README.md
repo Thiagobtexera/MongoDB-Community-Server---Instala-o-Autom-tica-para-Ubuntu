@@ -1,0 +1,1 @@
+# MongoDB-Community-Server---Instala-o-Autom-tica-para-Ubuntu
